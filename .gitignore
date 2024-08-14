@@ -62,3 +62,20 @@ Thumbs.db
 # Visual Studio Code
 .vscode/
 .history/
+
+# Firebase credentials
+**/goggle.servises.json
+**/GoogleService.Info.plist
+
+# Environment secrets
+.env
+
+# Android keystore files
+**/key.properties
+
+# İOS certificates
+ios/**/*.cer
+ios/**/*.p12
+ios/**/Profile/*.mobileprovison
+
+**/firebase_options.dart
